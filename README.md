@@ -71,10 +71,7 @@ Sprint Review katılımcıları:
 ---
 
 # Sprint 2
-
-
 ---
 
 # Sprint 3
-
 ---
